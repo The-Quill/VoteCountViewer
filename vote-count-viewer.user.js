@@ -5,12 +5,12 @@
 // @description	Lets you view the vote count on posts.
 // @author		Quill
 // @match *://meta.stackexchange.com/questions/*
-// @match *://stackexchange.com/questions/*
+// @match *://*.stackexchange.com/questions/*
 // @match *://stackoverflow.com/questions/*
 // @match *://serverfault.com/questions/*
 // @match *://superuser.com/questions/*
 // @match *://askubuntu.com/questions/*
-// @match	*://meta.codereview.stackexchange.com/questions/*
+// @match *://meta.*.stackexchange.com/questions/*
 // ==/UserScript==
 
 
